@@ -497,7 +497,7 @@ const templateButtons = [
   {index: 3, quickReplyButton: {displayText: 'This is a reply, just like normal buttons!', id: 'id-like-buttons-message'}},
 ]
 
-const buttonMessage = {
+const templateMessage = {
     text: "Hi it's a template message",
     footer: 'Hello World',
     templateButtons: templateButtons,
